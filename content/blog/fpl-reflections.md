@@ -13,7 +13,7 @@ js = ["https://d3js.org/d3.v6.min.js", "https://cdn.jsdelivr.net/npm/lodash@4.17
 If you ask any Fantasy Premier League (FPL) player on Twitter about what word has been beaten to death last season, they'd likely respond with "optimal". 
 I must admit that I played a part in starting or fuelling more than my fair share of these discussions... 
 
-{{< tweet 1376578600854519808 >}} 
+{{< tweet user="sertalpbilal" id="1376578600854519808" >}} 
 
 It might come as a suprise to some that I had never heard of FPL before August of 2020, just a week before I went on vacation. 
 It's fair to say that my time off was spoiled (to a degree) after my dear colleague, Bas Belfi, challenged me in the upcoming FPL season with the aid of analytics. 
@@ -102,8 +102,6 @@ The good things about my initial season were that:
 4. I saw people's perception of optimization and optimal play starting to change for the better. 
 5. I learned more about the finer details of FPL, like dealing with DGWs (double gameweeks, where at least one team plays 2 games), the importance of carrying a positive budget ITB (in the bank) and rolling free transfers, and the impact of ownership ratios. 
 
-<!-- {{< tweet 1396512449642254341 >}} --> 
-
 {{< img src="/img/uploads/mini_league.jpg" figcls="img-responsive" class="lazy">}} 
 
 Among other things, I also started collecting my Python scripts within a public repo, which I later turned into an open-source webpage under the [fploptimized.com](https://fploptimized.com) domain. 
@@ -166,7 +164,7 @@ My perception of FPL being too easy has certainly changed and it fuelled my addi
 If you are wondering, I finished last season with 2315 points and a rank of 304,304. 
 That is the benchmark for years to come for myself as it is the rank I achieved while only relying on an analytical model. 
 
-{{< tweet 1396615571278532617 >}} 
+{{< tweet user="sertalpbilal" id="1396615571278532617" >}} 
 
 
 [^hyperparameter]: Finding good input parameters for a black-box process (like optimization, or machine learning model) is called *Hyperparameter Optimization* and taking expert opinion is a good way to start tackling the problem. 

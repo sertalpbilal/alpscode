@@ -35,13 +35,13 @@ There are some surprising results below. You will see that even a ghost ship tea
 I started playing FPL this season (2020-2021) and have to confess that after hearing that a Math Postdoc had won it the year before was a huge motivation.
 Joshua Bull (Oxford Math Postdoc) winning score last season was an amazing 2557 points.
 
-{{< tweet 1293133235900293120 >}}
+{{< tweet user="OfficialFPL" id="1293133235900293120" >}}
 
 So, obviously math is certainly helpful when it comes to formulating a winning strategy.[^Math] 
 
 I've been playing FPL entirely based on optimization for forecasted points, but a question asked to Joshua brought new challenge for me:
 
-{{< tweet 1371768614899097602 >}}
+{{< tweet user="JamieNorth_NRG" id="1371768614899097602" >}}
 
 Yes! It is easy to write the model, and it is a feasible problem.
 But, it's still a really difficult one to solve. I have never tried solving the previous season before.
@@ -139,7 +139,7 @@ I omitted some parts of the optimization model, but the code is available on [Gi
 After Jamie's initial question to Joshua, I learned that [The FPL Kiwi](https://twitter.com/theFPLkiwi) gave this problem a try and reached 4889 points...
 By hand! Very impressive.
 
-{{< tweet 1297619700206239746 >}}
+{{< tweet user="theFPLkiwi" id="1297619700206239746" >}}
 
 Thanks to this earlier work, it was quite easy to find the input and we had our initial benchmark!
 (Also thanks to Vaastav Anand for collecting all data on GitHub for everyone to use [^githubdata]).
@@ -168,8 +168,6 @@ If you voted on the Twitter poll I ran earlier, the answer to the first question
 <p align="center">
 <a href="https://twitter.com/sertalpbilal/status/1392138554994839552"><img src="/img/tweets/poll1.png" class="img-responsive" /></a>
 </p>
-
-<!-- {{< tweet 1392138554994839552 >}} -->
 
 You can find the full solution on [GitHub](https://github.com/sertalpbilal/fpl_hindsight_optimization/blob/main/results/2019-20/final_solution_1.csv).
 
@@ -850,8 +848,6 @@ Unless there is a problem with input data, this solution is the best one can get
 
 In this case, the correct answer to my poll was D, around 3200 (Again, the 3rd popular choice)
 
-<!-- {{< tweet 1392138556152418311 >}} -->
-
 <p align="center">
 <a href="https://twitter.com/sertalpbilal/status/1392138556152418311"><img src="/img/tweets/poll2.png" class="img-responsive" /></a>
 </p>
@@ -914,8 +910,6 @@ The solver returned the following optimal squad and uses Bench Boost chip in GW1
 So, the final answer to my poll was... B! This answer was the least popular choice.
 I would be curious to find out how the auto-sub & vice-captain points would change the result, though.
 
-<!-- {{< tweet 1392138557268107269 >}} -->
-
 <p align="center">
 <a href="https://twitter.com/sertalpbilal/status/1392138557268107269"><img src="/img/tweets/poll3.png" class="img-responsive" /></a>
 </p>
@@ -968,7 +962,7 @@ As a reminder, Joshua Bull won 2019-2020 season with 2557 points.
 
 Congrats to [Neil](https://twitter.com/_NeilFPL) for answering all three questions correctly. 🥳
 
-{{< tweet 1392475744228581376 >}}
+{{< tweet user="sertalpbilal" id="1392475744228581376" >}}
 
 ## Insight?
 

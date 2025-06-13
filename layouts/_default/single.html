@@ -1,96 +1,98 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
-  {{ partial "head.html" . }}
-  
-  {{ if .Params.css }}
-    {{ range $e := .Params.css }}
-       <link rel="stylesheet" href="{{ $e }}">
-    {{ end }}
-  {{ end }}
-  
+{{ partial "head.html" . }}
 
-  <body>
+{{ if .Params.css }}
+{{ range $e := .Params.css }}
+<link rel="stylesheet" href="{{ $e }}">
+{{ end }}
+{{ end }}
 
-    <div id="all">
 
-        <header>
+<body>
 
-          {{ partial "nav.html" . }}
+  <div id="all">
 
-        </header>
+    <header>
 
-        {{ partial "breadcrumbs.html" . }}
+      {{ partial "nav.html" . }}
 
-        <div id="content">
-            <div class="container">
+    </header>
 
-                <div class="row">
+    {{ partial "breadcrumbs.html" . }}
 
-                    <!-- *** LEFT COLUMN *** -->
+    <div id="content">
+      <div class="container">
 
-                    <div class="col-md-9" id="blog-post">
+        <div class="row">
 
-                        <p class="text-muted mb-small text-right">{{ if .Params.author }}{{ i18n "authorBy" }} <a href="/about">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}</p>
+          <!-- *** LEFT COLUMN *** -->
 
-                        {{ if .Params.banner }}
-                          <!--  <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="banner-img" alt="" title="{{ .Params.bannercaption }}"> -->
-                          <div class="post-header-img" style="background-image: url({{ .Site.BaseURL}}{{ .Params.banner }});">
-                            <div class="post-header-img-inner">
-                            </div>
-                          </div>
-                        {{ end }}
+          <div class="col-md-9" id="blog-post">
 
-                        <div id="post-content">
-                          {{ .Content }}
-                        </div>
-                        <!-- /#post-content -->
-                        {{ if .Site.DisqusShortname }}
-                        <div id="comments">
-                            {{ template "_internal/disqus.html" . }}
-                        </div>
-                        {{ end }}
+            <p class="text-muted mb-small text-right">{{ if .Params.author }}{{ i18n "authorBy" }} <a href="/about">{{
+                .Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}</p>
 
-                    </div>
-                    <!-- /#blog-post -->
-
-                    <!-- *** LEFT COLUMN END *** -->
-
-                    <!-- *** RIGHT COLUMN *** -->
-
-                    <div class="col-md-3">
-
-                        <!-- *** MENUS AND WIDGETS *** -->
-
-                        {{ partial "sidebar.html" . }}
-
-                        <!-- *** MENUS AND FILTERS END *** -->
-
-                    </div>
-                    <!-- /.col-md-3 -->
-
-                    <!-- *** RIGHT COLUMN END *** -->
-
-                </div>
-                <!-- /.row -->
-
+            {{ if .Params.banner }}
+            <!--  <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="banner-img" alt="" title="{{ .Params.bannercaption }}"> -->
+            <div class="post-header-img" style="background-image: url({{ .Site.BaseURL}}{{ .Params.banner }});">
+              <div class="post-header-img-inner">
+              </div>
             </div>
-            <!-- /.container -->
+            {{ end }}
+
+            <div id="post-content">
+              {{ .Content }}
+            </div>
+            <!-- /#post-content -->
+            {{ if .Site.Params.disqusShortname }}
+            <div id="comments">
+              {{ template "_internal/disqus.html" . }}
+            </div>
+            {{ end }}
+
+          </div>
+          <!-- /#blog-post -->
+
+          <!-- *** LEFT COLUMN END *** -->
+
+          <!-- *** RIGHT COLUMN *** -->
+
+          <div class="col-md-3">
+
+            <!-- *** MENUS AND WIDGETS *** -->
+
+            {{ partial "sidebar.html" . }}
+
+            <!-- *** MENUS AND FILTERS END *** -->
+
+          </div>
+          <!-- /.col-md-3 -->
+
+          <!-- *** RIGHT COLUMN END *** -->
+
         </div>
-        <!-- /#content -->
+        <!-- /.row -->
 
-        {{ partial "footer.html" . }}
-
+      </div>
+      <!-- /.container -->
     </div>
-    <!-- /#all -->
+    <!-- /#content -->
 
-    {{ partial "scripts.html" . }}
-    
-    {{ if .Params.js }}
-      {{ range $e := .Params.js }}
-        <script src="{{ $e }}"></script>
-      {{ end }}
-    {{ end }}
+    {{ partial "footer.html" . }}
 
-  </body>
+  </div>
+  <!-- /#all -->
+
+  {{ partial "scripts.html" . }}
+
+  {{ if .Params.js }}
+  {{ range $e := .Params.js }}
+  <script src="{{ $e }}"></script>
+  {{ end }}
+  {{ end }}
+
+</body>
+
 </html>
