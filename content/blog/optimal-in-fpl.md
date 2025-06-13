@@ -22,9 +22,9 @@ Fantasy sports --with their well-defined rules, and standard ways of measuring t
 
 As I have mentioned before, so-called "Effective Ownership" (EO) is a controversial topic among FPL managers.
 
-{{< tweet user="FFScout_Mark" id="1341805255646998529" >}}
+{{< x user="FFScout_Mark" id="1341805255646998529" >}}
 
-{{< tweet user="fplblackbox_az" id="1341817006266470405" >}}
+{{< x user="fplblackbox_az" id="1341817006266470405" >}}
 
 Yes, AZ is right, optimal decision is independent of EO, **but we need to take a step back to understand why**.
 
