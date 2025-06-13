@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AlpsCode</title><link>https://alpscode.com/</link><description>Recent content on AlpsCode</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 00:00:00 -0500</lastBuildDate><atom:link href="https://alpscode.com/index.xml" rel="self" type="application/rss+xml"/><item><title>A Friendly Introduction to FPL Analytics</title><link>https://alpscode.com/blog/intro-to-fpl-analytics/</link><pubDate>Tue, 04 Jan 2022 00:00:00 -0500</pubDate><guid>https://alpscode.com/blog/intro-to-fpl-analytics/</guid><description>&lt;p>&lt;em>In this post, I tried to summarize the basics about using analytical tools and methods for Fantasy Premier League (FPL).
+There is certainly more out there than I can cover, but I hope this will help newcomers to understand what analytics is and how it can help you enjoy FPL more.
+Similar ideas can be applied to other fantasy sports games as well.&lt;/em>&lt;/p>
+&lt;h2 id="part-1-seeing-beyond-the-curtain-underlying-stats">Part 1: Seeing Beyond the Curtain &lt;em>(Underlying Stats)&lt;/em>&lt;/h2>
+&lt;p>You are sitting on your couch on a Saturday morning and suddenly remember that you have to transfer someone for your FPL team to beat your friend in &lt;em>that&lt;/em> mini-league.
+You open the FPL app, sort players by total points so far and transfer the player on top that you do not own!
+You are not 100% sure how the points system works in FPL, but after all, past performance should be an indicator of future performance, right?&lt;/p></description></item><item><title>Reflections from my first FPL season</title><link>https://alpscode.com/blog/fpl-reflections/</link><pubDate>Sun, 25 Jul 2021 22:00:00 -0400</pubDate><guid>https://alpscode.com/blog/fpl-reflections/</guid><description>&lt;p>If you ask any Fantasy Premier League (FPL) player on Twitter about what word has been beaten to death last season, they&amp;rsquo;d likely respond with &amp;ldquo;optimal&amp;rdquo;.
+I must admit that I played a part in starting or fuelling more than my fair share of these discussions&amp;hellip;&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">There are optimal ways to play FPL.&lt;/p>&amp;mdash; Sertalp B. Çay (@sertalpbilal) &lt;a href="https://twitter.com/sertalpbilal/status/1376578600854519808?ref_src=twsrc%5Etfw">March 29, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+
+
+&lt;p>It might come as a suprise to some that I had never heard of FPL before August of 2020, just a week before I went on vacation.
+It&amp;rsquo;s fair to say that my time off was spoiled (to a degree) after my dear colleague, Bas Belfi, challenged me in the upcoming FPL season with the aid of analytics.
+Like any sane person, I spent most of my time after that reading through rules, reviewing academic papers, and taking notes from every guide I came across on Reddit.&lt;/p></description></item><item><title>Rocket League as a Sports Analytics Sandbox</title><link>https://alpscode.com/blog/rocket-league-and-sports-analytics/</link><pubDate>Fri, 09 Jul 2021 09:00:00 -0400</pubDate><guid>https://alpscode.com/blog/rocket-league-and-sports-analytics/</guid><description>&lt;p>Taking a serious interest in sports analytics was probably the best thing I did during the pandemic.
+Not only is it fun to play with and analyze, but it&amp;rsquo;s also easy to make connections with ongoing events while also providing you with a broader understanding of the sports.
+There are, however, a few roadblocks.
+Reaching to the data, especially on-pitch data, is very difficult.
+You can find summarized stats but more granular specifics such as tracking data is treated as a premium commodity and understandably so.&lt;/p></description></item><item><title>Hindsight Optimization for FPL</title><link>https://alpscode.com/blog/hindsight-optimization/</link><pubDate>Wed, 12 May 2021 00:10:00 -0400</pubDate><guid>https://alpscode.com/blog/hindsight-optimization/</guid><description>&lt;p>This season certainly proved how random FPL could get, full of difficult decisions and regret.
+Every GW, we&amp;rsquo;d look at our team and wish that we&amp;rsquo;d that shiny player everyone else had.
+Sometimes Bruno, sometimes Gundogan, and sometimes Martinez.
+Week after week we were filled with regret after not buying (or worse: benching) that player.
+Of course with hindsight being 20/20, it&amp;rsquo;s easy to see what you missed.&lt;/p>
+&lt;p>But what if you could get the &lt;a target=_blank href="https://youtu.be/zorz3SXqjv0">&amp;lsquo;Almanac&amp;rsquo; just like in Back to the Future 2&lt;/a> and know how every week would play out?
+You might think it could make your life easier, but that&amp;rsquo;s not entirely correct.&lt;/p></description></item><item><title>Using Optimization Modeling for Expected Threat</title><link>https://alpscode.com/blog/expected_threat_optimization/</link><pubDate>Wed, 24 Mar 2021 21:00:00 -0500</pubDate><guid>https://alpscode.com/blog/expected_threat_optimization/</guid><description>&lt;p>If you know little about football analytics, I can safely assume that you have heard of expected goals (xG).
+For those who don&amp;rsquo;t know, xG is a metric showing the probability of a shot to be successful with the information we have, such as position, body part, and defender positions.&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>
+Another of such metrics is expected assists (xA) which can measure the probability that a pass leads to a goal.&lt;/p></description></item><item><title>O-Ring Optimization for FPL</title><link>https://alpscode.com/blog/o-ring-optimization/</link><pubDate>Tue, 12 Jan 2021 11:30:00 -0400</pubDate><guid>https://alpscode.com/blog/o-ring-optimization/</guid><description>&lt;p>&amp;ldquo;The Numbers Game&amp;rdquo;&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> is a great read for anyone interested in football (soccer) analytics.
+The book covers a wide range of events where numbers give insights to football professionals on topics like possession, short/long passes, and team evaluation.
+I have recently read the section about the &amp;ldquo;O-Ring theory&amp;rdquo;, which brought a couple of new ideas regarding FPL.&lt;/p>
+&lt;p>&lt;em>O-Ring theory&lt;/em> says that a team (or a system) is as strong as its weakest link.
+The idea itself is coming from the Space Shuttle &lt;em>Challenger&lt;/em>, where the failure of O-ring seals caused the &lt;a href="https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster" target="_blank">catastrophic event in 1986&lt;/a>.
+When applied to football, the theory points out that clubs should be improving (or replacing) their weakest players in the field, instead of focusing on superstars.&lt;/p></description></item><item><title>On the meaning of optimal in FPL</title><link>https://alpscode.com/blog/optimal-in-fpl/</link><pubDate>Fri, 08 Jan 2021 11:00:00 -0400</pubDate><guid>https://alpscode.com/blog/optimal-in-fpl/</guid><description>&lt;p>The amount of available content for Fantasy Premier League (FPL) is unbelivable and hard to follow.
+Among all, one of my favorite resources is the &amp;ldquo;&lt;a href="https://twitter.com/uncertainty_pod" target="_blank">Corridor of Uncertainty&lt;/a>&amp;rdquo; podcast as they focus on modeling and analytics part of FPL.
+Their guest in the latest episode was Abdul Rehman (&lt;a href="https://twitter.com/FPL_Salah" target="_blank">FPL Salah&lt;/a>), who is a well-known manager in the FPL community.
+I truly enjoyed their discussion and noticed that the word &amp;ldquo;optimal&amp;rdquo; is thrown around quite a bit.
+Since I do optimization for a living, it makes me happy to hear it in everyday conversations, especially regarding FPL.&lt;/p></description></item><item><title>On FPL, Optimization, and Ownership Weights</title><link>https://alpscode.com/blog/fpl-ownership-weight/</link><pubDate>Wed, 09 Dec 2020 12:30:00 -0500</pubDate><guid>https://alpscode.com/blog/fpl-ownership-weight/</guid><description>&lt;p>Robert Cialdini mentions &lt;em>scarcity&lt;/em> as one of the 6 principles of persuasion.
+The nature of seeking something of great interest is embedded inside all of us.
+Our first reaction when we see other people do something is to follow them.
+Even though it does not make too much sense, we follow the herd even in a competitive game, like Fantasy Premier League.&lt;/p>
+&lt;p>Last week&amp;rsquo;s (GW11) unfortunate gold rush to Jota proved that we fear being left out.
+Of course the potential price changes further trigger and support our knee-jerk reactions, however it is important to separate what we want to do and &lt;strong>feel forced&lt;/strong> to do.&lt;/p></description></item><item><title>Notes from FPL Gameweek 2 and Optimization</title><link>https://alpscode.com/blog/fpl-notes-2/</link><pubDate>Sun, 20 Sep 2020 19:13:13 -0500</pubDate><guid>https://alpscode.com/blog/fpl-notes-2/</guid><description>&lt;p>I am playing Fantasy Premier League this seasons for the first time and I can already tell you that it is frustrating, despite using a mathematical model.
+Even though I put no manual input of my own (all decisions are up to the mathematical model), I am watching almost all EPL games to improve the model and I can say that it is very addictive.&lt;/p>
+&lt;p>Growing up, I never liked watching live sports that much.
+Many people find football (soccer) very boring, and I always had similar ideas except big tournaments like World Cup or important games.
+To be honest, I never expected FPL to change my view this much.
+The pure enjoyment and excitement to see the outcome of my mathematical model is something else; it is strong enough to wake me up at 7 am on weekends to catch games between teams I have never watched before.
+Amazing.&lt;/p></description></item><item><title>Plotting a piecewise function graph in LaTeX</title><link>https://alpscode.com/blog/piecewise-latex/</link><pubDate>Fri, 15 Mar 2019 14:09:55 -0400</pubDate><guid>https://alpscode.com/blog/piecewise-latex/</guid><description>&lt;p>I absolutely adore LaTeX generated documents and personally use it pretty much for anything I can.
+Plotting graphs is one of my favorite thing to do.
+TikZ library makes it quite easy.&lt;/p>
+&lt;p>To plot a piecewise function, I happened to learn about &lt;code>\tikzmath&lt;/code> which I have never used before.
+Using it, you can define values and also perform math operations.
+I used this approach to set values and plot the graph dynamically.
+This approach saved me quite some to fine tune the graph in the long run.&lt;/p></description></item><item><title>What to do for a better password security and management</title><link>https://alpscode.com/blog/what-to-do-for-password-security/</link><pubDate>Sun, 27 Jan 2019 21:22:45 -0500</pubDate><guid>https://alpscode.com/blog/what-to-do-for-password-security/</guid><description>&lt;blockquote>
+&lt;p>&amp;ldquo;I don&amp;rsquo;t know that much about cyber, but I do think that&amp;rsquo;s the number one problem with mankind.&amp;rdquo;&lt;/p>
+&lt;p>Warren Buffett&lt;/p>&lt;/blockquote>
+&lt;p>We should be talking about password safety after &lt;a href="https://www.wired.com/story/collection-one-breach-email-accounts-passwords/" title="Wired&amp;#39;s story on the issue" target="_blank">773 million records exposed&lt;/a>.&lt;/p>
+&lt;p>I&amp;rsquo;m one of those people who complain when IT forces to change passwords at regular intervals.
+It is a nightmare for me to come up with secure passwords and even when I can, I have a hard time remembering them.
+So, believe me when I say that I know the struggle of dealing with passwords.
+My colleagues are the same.
+Last week one of my colleagues was saying that &amp;ldquo;Ah damn, I got that password change notification again&amp;rdquo;.
+Passwords are unfortunately a burden we need to carry, an artifact of the technology.&lt;/p></description></item><item><title>Using Linux on Windows</title><link>https://alpscode.com/blog/linux-on-windows/</link><pubDate>Sat, 05 Jan 2019 14:30:04 -0500</pubDate><guid>https://alpscode.com/blog/linux-on-windows/</guid><description>&lt;p>Linux is arguably the most developer-friendly operating system.
+From automation to feature-rich text editors, I see Linux as a must for any programmer.
+Powerful and hackable Linux ecosystem and the huge community make finding solutions to common problems very trivial.&lt;/p>
+&lt;p>If you need to use Windows for a variety of reasons, you are not out of options when it comes to using Linux.
+Over the years, I have tried a lot of different ways to enable Linux functionality on Windows, some are better than others but all of them have specific use cases.
+Windows 10 started supporting Linux subsystem natively a while ago which is called Windows Subsystem for Linux (WSL).
+WSL basically enables you to run Linux executables on Windows 10, natively.
+In this blog post, I will show how you can enable the Linux subsystem support on Windows 10, install Ubuntu and do some customization without an arm and a leg.&lt;/p></description></item><item><title>Writing scripts with Reddit API</title><link>https://alpscode.com/blog/scripting-with-reddit-api/</link><pubDate>Tue, 25 Dec 2018 20:08:24 -0500</pubDate><guid>https://alpscode.com/blog/scripting-with-reddit-api/</guid><description>&lt;p>In this post, I will show how you can use Python to gather content and create a simple web page around it.
+See &lt;a href="https://alpscode.com/blog/how-to-use-reddit-api/">the first part&lt;/a> to learn how to register an app to Reddit API and get started.&lt;/p>
+&lt;h2 id="setup">Setup&lt;/h2>
+&lt;p>I often use PyCharm or Jupyter notebook for Python, but any Python environment will do the trick.
+You need to have a Reddit app id and app secret already at hand for this part.
+A basic knowledge of HTML and CSS might be useful, but not required for the high level content.&lt;/p></description></item><item><title>How to use Reddit API</title><link>https://alpscode.com/blog/how-to-use-reddit-api/</link><pubDate>Mon, 17 Dec 2018 23:28:00 -0500</pubDate><guid>https://alpscode.com/blog/how-to-use-reddit-api/</guid><description>&lt;p>One of the most valuable things I learned in recent years was learning how to use Public APIs to develop tools.
+An API (Application program interface) is a set of tools to communicate with another service.
+Learning how to use APIs is very valuable for web applications, but beyond that it is a useful skill to expand your horizon.
+Once you get the hang of it, there is endless possibilities what you can do with it.&lt;/p></description></item><item><title/><link>https://alpscode.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alpscode.com/about/</guid><description>&lt;h1 id="about">About&lt;/h1>
+&lt;h3 id="about-alpscode">About AlpsCode&lt;/h3>
+&lt;p>Hi there,&lt;/p>
+&lt;p>I originally started collecting notes about the new technologies I learned in my Dropbox folder.
+When I realized that I start forgetting the ones that I do not use often, I have decided to practice with them.
+So, the content of this blog is mostly about my forgotten notes being revived.
+My aim is to keep every post short and concise, so that I can get what I am looking for when I need it.
+Feel free to make a merge request on my &lt;a href="https://github.com/alpscode/website" target="_blank">Github repository&lt;/a> if you notice any errors.&lt;/p></description></item></channel></rss>

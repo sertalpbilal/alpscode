@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linux on AlpsCode</title><link>https://alpscode.com/tags/linux/</link><description>Recent content in Linux on AlpsCode</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 05 Jan 2019 14:30:04 -0500</lastBuildDate><atom:link href="https://alpscode.com/tags/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>Using Linux on Windows</title><link>https://alpscode.com/blog/linux-on-windows/</link><pubDate>Sat, 05 Jan 2019 14:30:04 -0500</pubDate><guid>https://alpscode.com/blog/linux-on-windows/</guid><description>&lt;p>Linux is arguably the most developer-friendly operating system.
+From automation to feature-rich text editors, I see Linux as a must for any programmer.
+Powerful and hackable Linux ecosystem and the huge community make finding solutions to common problems very trivial.&lt;/p>
+&lt;p>If you need to use Windows for a variety of reasons, you are not out of options when it comes to using Linux.
+Over the years, I have tried a lot of different ways to enable Linux functionality on Windows, some are better than others but all of them have specific use cases.
+Windows 10 started supporting Linux subsystem natively a while ago which is called Windows Subsystem for Linux (WSL).
+WSL basically enables you to run Linux executables on Windows 10, natively.
+In this blog post, I will show how you can enable the Linux subsystem support on Windows 10, install Ubuntu and do some customization without an arm and a leg.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Math on AlpsCode</title><link>https://alpscode.com/tags/math/</link><description>Recent content in Math on AlpsCode</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 12 May 2021 00:10:00 -0400</lastBuildDate><atom:link href="https://alpscode.com/tags/math/index.xml" rel="self" type="application/rss+xml"/><item><title>Hindsight Optimization for FPL</title><link>https://alpscode.com/blog/hindsight-optimization/</link><pubDate>Wed, 12 May 2021 00:10:00 -0400</pubDate><guid>https://alpscode.com/blog/hindsight-optimization/</guid><description>&lt;p>This season certainly proved how random FPL could get, full of difficult decisions and regret.
+Every GW, we&amp;rsquo;d look at our team and wish that we&amp;rsquo;d that shiny player everyone else had.
+Sometimes Bruno, sometimes Gundogan, and sometimes Martinez.
+Week after week we were filled with regret after not buying (or worse: benching) that player.
+Of course with hindsight being 20/20, it&amp;rsquo;s easy to see what you missed.&lt;/p>
+&lt;p>But what if you could get the &lt;a target=_blank href="https://youtu.be/zorz3SXqjv0">&amp;lsquo;Almanac&amp;rsquo; just like in Back to the Future 2&lt;/a> and know how every week would play out?
+You might think it could make your life easier, but that&amp;rsquo;s not entirely correct.&lt;/p></description></item><item><title>O-Ring Optimization for FPL</title><link>https://alpscode.com/blog/o-ring-optimization/</link><pubDate>Tue, 12 Jan 2021 11:30:00 -0400</pubDate><guid>https://alpscode.com/blog/o-ring-optimization/</guid><description>&lt;p>&amp;ldquo;The Numbers Game&amp;rdquo;&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> is a great read for anyone interested in football (soccer) analytics.
+The book covers a wide range of events where numbers give insights to football professionals on topics like possession, short/long passes, and team evaluation.
+I have recently read the section about the &amp;ldquo;O-Ring theory&amp;rdquo;, which brought a couple of new ideas regarding FPL.&lt;/p>
+&lt;p>&lt;em>O-Ring theory&lt;/em> says that a team (or a system) is as strong as its weakest link.
+The idea itself is coming from the Space Shuttle &lt;em>Challenger&lt;/em>, where the failure of O-ring seals caused the &lt;a href="https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster" target="_blank">catastrophic event in 1986&lt;/a>.
+When applied to football, the theory points out that clubs should be improving (or replacing) their weakest players in the field, instead of focusing on superstars.&lt;/p></description></item><item><title>On the meaning of optimal in FPL</title><link>https://alpscode.com/blog/optimal-in-fpl/</link><pubDate>Fri, 08 Jan 2021 11:00:00 -0400</pubDate><guid>https://alpscode.com/blog/optimal-in-fpl/</guid><description>&lt;p>The amount of available content for Fantasy Premier League (FPL) is unbelivable and hard to follow.
+Among all, one of my favorite resources is the &amp;ldquo;&lt;a href="https://twitter.com/uncertainty_pod" target="_blank">Corridor of Uncertainty&lt;/a>&amp;rdquo; podcast as they focus on modeling and analytics part of FPL.
+Their guest in the latest episode was Abdul Rehman (&lt;a href="https://twitter.com/FPL_Salah" target="_blank">FPL Salah&lt;/a>), who is a well-known manager in the FPL community.
+I truly enjoyed their discussion and noticed that the word &amp;ldquo;optimal&amp;rdquo; is thrown around quite a bit.
+Since I do optimization for a living, it makes me happy to hear it in everyday conversations, especially regarding FPL.&lt;/p></description></item><item><title>On FPL, Optimization, and Ownership Weights</title><link>https://alpscode.com/blog/fpl-ownership-weight/</link><pubDate>Wed, 09 Dec 2020 12:30:00 -0500</pubDate><guid>https://alpscode.com/blog/fpl-ownership-weight/</guid><description>&lt;p>Robert Cialdini mentions &lt;em>scarcity&lt;/em> as one of the 6 principles of persuasion.
+The nature of seeking something of great interest is embedded inside all of us.
+Our first reaction when we see other people do something is to follow them.
+Even though it does not make too much sense, we follow the herd even in a competitive game, like Fantasy Premier League.&lt;/p>
+&lt;p>Last week&amp;rsquo;s (GW11) unfortunate gold rush to Jota proved that we fear being left out.
+Of course the potential price changes further trigger and support our knee-jerk reactions, however it is important to separate what we want to do and &lt;strong>feel forced&lt;/strong> to do.&lt;/p></description></item><item><title>Plotting a piecewise function graph in LaTeX</title><link>https://alpscode.com/blog/piecewise-latex/</link><pubDate>Fri, 15 Mar 2019 14:09:55 -0400</pubDate><guid>https://alpscode.com/blog/piecewise-latex/</guid><description>&lt;p>I absolutely adore LaTeX generated documents and personally use it pretty much for anything I can.
+Plotting graphs is one of my favorite thing to do.
+TikZ library makes it quite easy.&lt;/p>
+&lt;p>To plot a piecewise function, I happened to learn about &lt;code>\tikzmath&lt;/code> which I have never used before.
+Using it, you can define values and also perform math operations.
+I used this approach to set values and plot the graph dynamically.
+This approach saved me quite some to fine tune the graph in the long run.&lt;/p></description></item></channel></rss>

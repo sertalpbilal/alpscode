@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on AlpsCode</title><link>https://alpscode.com/tags/python/</link><description>Recent content in Python on AlpsCode</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 27 Jan 2019 21:22:45 -0500</lastBuildDate><atom:link href="https://alpscode.com/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>What to do for a better password security and management</title><link>https://alpscode.com/blog/what-to-do-for-password-security/</link><pubDate>Sun, 27 Jan 2019 21:22:45 -0500</pubDate><guid>https://alpscode.com/blog/what-to-do-for-password-security/</guid><description>&lt;blockquote>
+&lt;p>&amp;ldquo;I don&amp;rsquo;t know that much about cyber, but I do think that&amp;rsquo;s the number one problem with mankind.&amp;rdquo;&lt;/p>
+&lt;p>Warren Buffett&lt;/p>&lt;/blockquote>
+&lt;p>We should be talking about password safety after &lt;a href="https://www.wired.com/story/collection-one-breach-email-accounts-passwords/" title="Wired&amp;#39;s story on the issue" target="_blank">773 million records exposed&lt;/a>.&lt;/p>
+&lt;p>I&amp;rsquo;m one of those people who complain when IT forces to change passwords at regular intervals.
+It is a nightmare for me to come up with secure passwords and even when I can, I have a hard time remembering them.
+So, believe me when I say that I know the struggle of dealing with passwords.
+My colleagues are the same.
+Last week one of my colleagues was saying that &amp;ldquo;Ah damn, I got that password change notification again&amp;rdquo;.
+Passwords are unfortunately a burden we need to carry, an artifact of the technology.&lt;/p></description></item><item><title>Writing scripts with Reddit API</title><link>https://alpscode.com/blog/scripting-with-reddit-api/</link><pubDate>Tue, 25 Dec 2018 20:08:24 -0500</pubDate><guid>https://alpscode.com/blog/scripting-with-reddit-api/</guid><description>&lt;p>In this post, I will show how you can use Python to gather content and create a simple web page around it.
+See &lt;a href="https://alpscode.com/blog/how-to-use-reddit-api/">the first part&lt;/a> to learn how to register an app to Reddit API and get started.&lt;/p>
+&lt;h2 id="setup">Setup&lt;/h2>
+&lt;p>I often use PyCharm or Jupyter notebook for Python, but any Python environment will do the trick.
+You need to have a Reddit app id and app secret already at hand for this part.
+A basic knowledge of HTML and CSS might be useful, but not required for the high level content.&lt;/p></description></item><item><title>How to use Reddit API</title><link>https://alpscode.com/blog/how-to-use-reddit-api/</link><pubDate>Mon, 17 Dec 2018 23:28:00 -0500</pubDate><guid>https://alpscode.com/blog/how-to-use-reddit-api/</guid><description>&lt;p>One of the most valuable things I learned in recent years was learning how to use Public APIs to develop tools.
+An API (Application program interface) is a set of tools to communicate with another service.
+Learning how to use APIs is very valuable for web applications, but beyond that it is a useful skill to expand your horizon.
+Once you get the hang of it, there is endless possibilities what you can do with it.&lt;/p></description></item></channel></rss>

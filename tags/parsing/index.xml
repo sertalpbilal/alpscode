@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Parsing on AlpsCode</title><link>https://alpscode.com/tags/parsing/</link><description>Recent content in Parsing on AlpsCode</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 25 Dec 2018 20:08:24 -0500</lastBuildDate><atom:link href="https://alpscode.com/tags/parsing/index.xml" rel="self" type="application/rss+xml"/><item><title>Writing scripts with Reddit API</title><link>https://alpscode.com/blog/scripting-with-reddit-api/</link><pubDate>Tue, 25 Dec 2018 20:08:24 -0500</pubDate><guid>https://alpscode.com/blog/scripting-with-reddit-api/</guid><description>&lt;p>In this post, I will show how you can use Python to gather content and create a simple web page around it.
+See &lt;a href="https://alpscode.com/blog/how-to-use-reddit-api/">the first part&lt;/a> to learn how to register an app to Reddit API and get started.&lt;/p>
+&lt;h2 id="setup">Setup&lt;/h2>
+&lt;p>I often use PyCharm or Jupyter notebook for Python, but any Python environment will do the trick.
+You need to have a Reddit app id and app secret already at hand for this part.
+A basic knowledge of HTML and CSS might be useful, but not required for the high level content.&lt;/p></description></item></channel></rss>

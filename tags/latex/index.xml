@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LaTeX on AlpsCode</title><link>https://alpscode.com/tags/latex/</link><description>Recent content in LaTeX on AlpsCode</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2019 14:09:55 -0400</lastBuildDate><atom:link href="https://alpscode.com/tags/latex/index.xml" rel="self" type="application/rss+xml"/><item><title>Plotting a piecewise function graph in LaTeX</title><link>https://alpscode.com/blog/piecewise-latex/</link><pubDate>Fri, 15 Mar 2019 14:09:55 -0400</pubDate><guid>https://alpscode.com/blog/piecewise-latex/</guid><description>&lt;p>I absolutely adore LaTeX generated documents and personally use it pretty much for anything I can.
+Plotting graphs is one of my favorite thing to do.
+TikZ library makes it quite easy.&lt;/p>
+&lt;p>To plot a piecewise function, I happened to learn about &lt;code>\tikzmath&lt;/code> which I have never used before.
+Using it, you can define values and also perform math operations.
+I used this approach to set values and plot the graph dynamically.
+This approach saved me quite some to fine tune the graph in the long run.&lt;/p></description></item></channel></rss>

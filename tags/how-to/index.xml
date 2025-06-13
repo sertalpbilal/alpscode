@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>How-To on AlpsCode</title><link>https://alpscode.com/tags/how-to/</link><description>Recent content in How-To on AlpsCode</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 05 Jan 2019 14:30:04 -0500</lastBuildDate><atom:link href="https://alpscode.com/tags/how-to/index.xml" rel="self" type="application/rss+xml"/><item><title>Using Linux on Windows</title><link>https://alpscode.com/blog/linux-on-windows/</link><pubDate>Sat, 05 Jan 2019 14:30:04 -0500</pubDate><guid>https://alpscode.com/blog/linux-on-windows/</guid><description>&lt;p>Linux is arguably the most developer-friendly operating system.
+From automation to feature-rich text editors, I see Linux as a must for any programmer.
+Powerful and hackable Linux ecosystem and the huge community make finding solutions to common problems very trivial.&lt;/p>
+&lt;p>If you need to use Windows for a variety of reasons, you are not out of options when it comes to using Linux.
+Over the years, I have tried a lot of different ways to enable Linux functionality on Windows, some are better than others but all of them have specific use cases.
+Windows 10 started supporting Linux subsystem natively a while ago which is called Windows Subsystem for Linux (WSL).
+WSL basically enables you to run Linux executables on Windows 10, natively.
+In this blog post, I will show how you can enable the Linux subsystem support on Windows 10, install Ubuntu and do some customization without an arm and a leg.&lt;/p></description></item><item><title>Writing scripts with Reddit API</title><link>https://alpscode.com/blog/scripting-with-reddit-api/</link><pubDate>Tue, 25 Dec 2018 20:08:24 -0500</pubDate><guid>https://alpscode.com/blog/scripting-with-reddit-api/</guid><description>&lt;p>In this post, I will show how you can use Python to gather content and create a simple web page around it.
+See &lt;a href="https://alpscode.com/blog/how-to-use-reddit-api/">the first part&lt;/a> to learn how to register an app to Reddit API and get started.&lt;/p>
+&lt;h2 id="setup">Setup&lt;/h2>
+&lt;p>I often use PyCharm or Jupyter notebook for Python, but any Python environment will do the trick.
+You need to have a Reddit app id and app secret already at hand for this part.
+A basic knowledge of HTML and CSS might be useful, but not required for the high level content.&lt;/p></description></item><item><title>How to use Reddit API</title><link>https://alpscode.com/blog/how-to-use-reddit-api/</link><pubDate>Mon, 17 Dec 2018 23:28:00 -0500</pubDate><guid>https://alpscode.com/blog/how-to-use-reddit-api/</guid><description>&lt;p>One of the most valuable things I learned in recent years was learning how to use Public APIs to develop tools.
+An API (Application program interface) is a set of tools to communicate with another service.
+Learning how to use APIs is very valuable for web applications, but beyond that it is a useful skill to expand your horizon.
+Once you get the hang of it, there is endless possibilities what you can do with it.&lt;/p></description></item></channel></rss>
