@@ -13,7 +13,7 @@ js = ["https://d3js.org/d3.v6.min.js", "https://cdn.jsdelivr.net/npm/lodash@4.17
 If you ask any Fantasy Premier League (FPL) player on Twitter about what word has been beaten to death last season, they'd likely respond with "optimal". 
 I must admit that I played a part in starting or fuelling more than my fair share of these discussions... 
 
-{{< tweet user="sertalpbilal" id="1376578600854519808" >}} 
+{{< x user="sertalpbilal" id="1376578600854519808" >}} 
 
 It might come as a suprise to some that I had never heard of FPL before August of 2020, just a week before I went on vacation. 
 It's fair to say that my time off was spoiled (to a degree) after my dear colleague, Bas Belfi, challenged me in the upcoming FPL season with the aid of analytics. 
@@ -164,7 +164,7 @@ My perception of FPL being too easy has certainly changed and it fuelled my addi
 If you are wondering, I finished last season with 2315 points and a rank of 304,304. 
 That is the benchmark for years to come for myself as it is the rank I achieved while only relying on an analytical model. 
 
-{{< tweet user="sertalpbilal" id="1396615571278532617" >}} 
+{{< x user="sertalpbilal" id="1396615571278532617" >}} 
 
 
 [^hyperparameter]: Finding good input parameters for a black-box process (like optimization, or machine learning model) is called *Hyperparameter Optimization* and taking expert opinion is a good way to start tackling the problem. 

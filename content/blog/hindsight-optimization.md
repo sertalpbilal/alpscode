@@ -35,13 +35,13 @@ There are some surprising results below. You will see that even a ghost ship tea
 I started playing FPL this season (2020-2021) and have to confess that after hearing that a Math Postdoc had won it the year before was a huge motivation.
 Joshua Bull (Oxford Math Postdoc) winning score last season was an amazing 2557 points.
 
-{{< tweet user="OfficialFPL" id="1293133235900293120" >}}
+{{< x user="OfficialFPL" id="1293133235900293120" >}}
 
 So, obviously math is certainly helpful when it comes to formulating a winning strategy.[^Math] 
 
 I've been playing FPL entirely based on optimization for forecasted points, but a question asked to Joshua brought new challenge for me:
 
-{{< tweet user="JamieNorth_NRG" id="1371768614899097602" >}}
+{{< x user="JamieNorth_NRG" id="1371768614899097602" >}}
 
 Yes! It is easy to write the model, and it is a feasible problem.
 But, it's still a really difficult one to solve. I have never tried solving the previous season before.
@@ -139,7 +139,7 @@ I omitted some parts of the optimization model, but the code is available on [Gi
 After Jamie's initial question to Joshua, I learned that [The FPL Kiwi](https://twitter.com/theFPLkiwi) gave this problem a try and reached 4889 points...
 By hand! Very impressive.
 
-{{< tweet user="theFPLkiwi" id="1297619700206239746" >}}
+{{< x user="theFPLkiwi" id="1297619700206239746" >}}
 
 Thanks to this earlier work, it was quite easy to find the input and we had our initial benchmark!
 (Also thanks to Vaastav Anand for collecting all data on GitHub for everyone to use [^githubdata]).
@@ -962,7 +962,7 @@ As a reminder, Joshua Bull won 2019-2020 season with 2557 points.
 
 Congrats to [Neil](https://twitter.com/_NeilFPL) for answering all three questions correctly. 🥳
 
-{{< tweet user="sertalpbilal" id="1392475744228581376" >}}
+{{< x user="sertalpbilal" id="1392475744228581376" >}}
 
 ## Insight?
 
